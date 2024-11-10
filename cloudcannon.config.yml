@@ -1,0 +1,13 @@
+collections_config:
+  src_content_blog:
+    path: src/content/blog
+    name: Src Content Blog
+    icon: account_box
+paths:
+  static: public
+  uploads: public/uploads
+timezone: Asia/Calcutta
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
